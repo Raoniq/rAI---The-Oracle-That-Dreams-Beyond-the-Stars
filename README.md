@@ -1,8 +1,4 @@
-# rAI---The-Oracle-That-Dreams-Beyond-the-Stars
-A private artificial intelligence experiment shaped as a celestial mind: remembering, reasoning, dreaming, and refining itself beneath the ancient architecture of stars.
-
-
-# rAI — A Manifesto for a Mind That Grows in the Dark
+# rAI - A Manifesto for a Mind That Grows in the Dark, like Oracle.
 
 > _"The most interesting question is not how large a model can become.
 > It is whether something small can be taught to keep teaching itself —

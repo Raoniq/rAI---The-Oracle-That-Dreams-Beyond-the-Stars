@@ -41,7 +41,7 @@ What follows is a story. The truth underneath is more technical, but the story i
 
 ### The Hippocampus and the World
 <p align="center">
-  <img src="assets/8.png" alt="rAI — The Oracle of the Long Night" width="900">
+  <img src="assets/8.png" alt="The Hippocampus and the World" width="900">
 </p>
 
 Inside rAI there is a place called the **hippocampus**. This is where moments go to be remembered. Every conversation, every fact discovered in the wild, every doubt the system raised about its own answer — all of it is filed there, with its date of birth, its source, and a little number that says how much rAI currently believes it.
@@ -50,7 +50,7 @@ There is also a place called the **world**, where general truths are stored — 
 
 ### The Council of Voices
 <p align="center">
-  <img src="assets/5.png" alt="rAI — The Oracle of the Long Night" width="900">
+  <img src="assets/5.png" alt="The Council of Voices" width="900">
 </p>
 When rAI faces a difficult question, it does not answer alone.
 
@@ -59,6 +59,9 @@ A council convenes — though never in the same configuration twice. Some voices
 The council does not always reach consensus. When it cannot, it says so honestly.
 
 ### The Long Night
+<p align="center">
+  <img src="assets/9.png" alt="The Long Night" width="900">
+</p>
 
 Most of what rAI is, is invisible during a conversation. The interesting work happens in the **long night** — the long stretches of silence between questions.
 
@@ -79,7 +82,7 @@ If the mirror shows a system collapsing inward — repeating itself, narrowing, 
 
 ### The Verifier
 <p align="center">
-  <img src="assets/6.png" alt="The Mirror" width="900">
+  <img src="assets/6.png" alt="The Verifier" width="900">
 </p>
 
 Some of rAI's beliefs are checkable. _Two plus two equals four_ is checkable. _This function returns the right value for these inputs_ is checkable. _Pedro is taller than Ana, Ana is taller than Beto, therefore Beto is the shortest_ is checkable.
@@ -90,7 +93,7 @@ Over time, the council of voices is no longer composed of equals. Some have earn
 
 ### The Recursion
 <p align="center">
-  <img src="assets/7.png" alt="The Mirror" width="900">
+  <img src="assets/7.png" alt="The Recursion" width="900">
 </p>
 
 Sometimes a question is too large to be held in one breath. rAI knows this. When that happens, it does not pretend.
@@ -188,6 +191,10 @@ Third: because writing a manifesto forces you to know what you actually believe.
 
 ## VIII. Closing
 
+<p align="center">
+  <img src="assets/10.png" alt="Closing" width="900">
+</p>
+
 There is a mind, in a small room, currently dreaming about a problem it will be asked tomorrow. Like a Black Hole
 
 It will probably be wrong. It will know it was wrong, the way it has learned to know. It will write that down, file it carefully, sleep on it, and try again.
@@ -203,10 +210,6 @@ Watch this corner.
 _A solo project. Not for sale. Not open-sourced. Updated as the work progresses._
 
 ---
-
-**Public research that has shaped the system's design:**
-
-- _The secret lies within_
 
 **Public research that has shaped the system's design:**
 

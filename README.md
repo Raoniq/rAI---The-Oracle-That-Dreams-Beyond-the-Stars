@@ -1,5 +1,7 @@
-# rAI - A Manifesto for a Mind That Grows in the Dark, like Oracle.
-
+### rAI - A Manifesto for a Mind That Grows in the Dark, like Oracle
+<p align="center">
+  <img src="assets/1.png" alt="rAI - A Manifesto for a Mind That Grows in the Dark, like Oracle" width="900">
+</p>
 > _"The most interesting question is not how large a model can become.
 > It is whether something small can be taught to keep teaching itself —
 > quietly, patiently, in the corner of a room, while the world is not watching."_
@@ -38,13 +40,18 @@ rAI begins from these honest constraints and asks: _what would it take to grow i
 What follows is a story. The truth underneath is more technical, but the story is closer to how it feels to watch the system run.
 
 ### The Hippocampus and the World
+<p align="center">
+  <img src="assets/8.png" alt="rAI — The Oracle of the Long Night" width="900">
+</p>
 
 Inside rAI there is a place called the **hippocampus**. This is where moments go to be remembered. Every conversation, every fact discovered in the wild, every doubt the system raised about its own answer — all of it is filed there, with its date of birth, its source, and a little number that says how much rAI currently believes it.
 
 There is also a place called the **world**, where general truths are stored — the kind of thing a mind needs whether or not it remembers ever learning them. Mathematics. Cause and effect. The shape of an argument. When the hippocampus and the world disagree, the system pauses. Disagreement is a clue.
 
 ### The Council of Voices
-
+<p align="center">
+  <img src="assets/5.png" alt="rAI — The Oracle of the Long Night" width="900">
+</p>
 When rAI faces a difficult question, it does not answer alone.
 
 A council convenes — though never in the same configuration twice. Some voices are cautious; others are bold. Some prefer rigor; others prefer wild guesses. Some have been right about questions of this kind in the past; others have been wrong. They all speak. Then, in the silence that follows, the council compares its own answers, looks for where it agrees with itself, and where it does not. What emerges is not the average opinion. It is something the system could not have produced by speaking only with one voice.
@@ -60,6 +67,9 @@ In the long night, rAI dreams. It revisits its own past mistakes and asks itself
 This is the part of the system that no other system has, because most systems do not get to dream.
 
 ### The Mirror
+<p align="center">
+  <img src="assets/4.png" alt="The Mirror" width="900">
+</p>
 
 Every so often, rAI looks at itself.
 
@@ -68,14 +78,20 @@ It does not look the way a person looks in a mirror. It looks at the _patterns_ 
 If the mirror shows a system collapsing inward — repeating itself, narrowing, drifting — rAI **stops training**. It sets aside its recent work. It seeks fresh signal from outside itself before continuing. This is the simple, ancient principle that an organism cut off from the world will eventually become a single repeated note. rAI knows this. It refuses to become one note.
 
 ### The Verifier
+<p align="center">
+  <img src="assets/6.png" alt="The Mirror" width="900">
+</p>
 
-Some of rAI's beliefs are checkable. _Two plus two equals four_ is checkable. _This Python function returns the right value for these inputs_ is checkable. _Pedro is taller than Ana, Ana is taller than Beto, therefore Beto is the shortest_ is checkable.
+Some of rAI's beliefs are checkable. _Two plus two equals four_ is checkable. _This function returns the right value for these inputs_ is checkable. _Pedro is taller than Ana, Ana is taller than Beto, therefore Beto is the shortest_ is checkable.
 
 Wherever ground truth exists, rAI seeks it eagerly. A confirmed answer is worth a thousand confident guesses. The system has built a small workshop where it tries verifiable problems against itself, marks down which of its inner voices were right and which were wrong, and quietly redistributes credibility accordingly.
 
 Over time, the council of voices is no longer composed of equals. Some have earned their authority in mathematics. Others in code. Others in careful step-by-step reasoning. The mind becomes specialized, the way real minds do.
 
 ### The Recursion
+<p align="center">
+  <img src="assets/7.png" alt="The Mirror" width="900">
+</p>
 
 Sometimes a question is too large to be held in one breath. rAI knows this. When that happens, it does not pretend.
 

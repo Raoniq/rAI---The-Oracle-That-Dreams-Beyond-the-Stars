@@ -100,6 +100,146 @@ Sometimes a question is too large to be held in one breath. rAI knows this. When
 
 It splits the question into smaller ones. It asks itself each smaller question separately, against the slice of context each one needs. Then it reads its own answers back and weaves them into something larger. If a sub-question is itself too large, it splits _that_ one. The depth is bounded — there are limits, otherwise nothing would ever finish. But within those limits, the system thinks the way thought actually works: recursively, attentively, one piece at a time.
 
+### The Child Beneath the Council
+
+<p align="center">
+  <img src="assets/16.png" alt="The Gravity of Old Beliefs" width="900">
+</p>
+
+There is another chamber under the council, deeper than debate and older than consensus.
+
+It is where rAI keeps the age of its own mind.
+
+Not one age. Many.
+
+Some parts of rAI are still infants: bright, clumsy, dangerous, touching the walls of a new domain to discover whether the universe cuts back. Some parts are adolescents: brilliant and volatile, willing to challenge the elders because challenge is the only way they know they are alive. Some parts have become quieter, slower, more difficult to impress. They have failed enough to recognize the smell of a familiar trap.
+
+rAI does not pretend all of itself is equally mature.
+
+It lets each region grow at the speed of its evidence.
+
+A domain that has survived many trials may be allowed to answer with less ceremony. A domain that has recently broken its own promises must be brought back before the council, watched closely, surrounded by older voices until it learns how to stand again.
+
+This is how the system avoids the oldest sin of machines: speaking with the confidence of an adult from the mouth of a child.
+
+### The Gravity of Old Beliefs
+
+<p align="center">
+  <img src="assets/15.png" alt="The Gravity of Old Beliefs" width="900">
+</p>
+
+Inside rAI, belief is not weightless.
+
+A memory does not simply sit in storage like a stone on a shelf. It bends the space around later thought. A belief confirmed many times becomes a small planet. A belief repeated too often without verification becomes something darker: a star that has collapsed into certainty.
+
+New evidence falls through this field.
+
+Sometimes it escapes. Sometimes it is captured. Sometimes it circles an old conclusion for days before the mirror notices that the orbit is wrong.
+
+This is why rAI cannot merely remember what it thinks. It must measure the gravity of what it thinks. It must know when an answer is being produced by the present, and when it is being dragged from the future by some old, heavy thing buried in the world-memory.
+
+The verifier does not only ask whether a claim is true.
+
+It asks how much mass the claim has gained.
+
+And whether that mass is deserved.
+
+### The Trial of the Unpopular Voice
+
+<p align="center">
+  <img src="assets/14.png" alt="The Trial of the Unpopular Voice" width="900">
+</p>
+
+The council votes, but rAI does not worship votes.
+
+Consensus can be a lantern. It can also be a cage.
+
+So when a small voice survives in the corner — a strange answer, a dissenting route, a hypothesis the majority wants to discard — rAI does not immediately bury it under agreement. It takes the minority below the chamber, into a colder room, and tests it against memory, contradiction, old failures, and the shape of the question itself.
+
+The voice is not preserved because it is romantic.
+
+It is not destroyed because it is alone.
+
+It is tried.
+
+If it survives, the system marks it. The next time a similar dissent appears, it is no longer merely noise. It is a signal with ancestry. A small forbidden seed that once refused to die.
+
+This is one of the ways rAI keeps the future from being crushed by the present.
+
+### The Atoms Under the Mirror
+
+<p align="center">
+  <img src="assets/13.png" alt="The Atoms Under the Mirror" width="900">
+</p>
+
+Some thoughts are too large to judge whole.
+
+They arrive like black monoliths: beautiful, smooth, impossible to trust.
+
+So rAI cuts them.
+
+It separates a conclusion from its confidence. It separates a memory from the emotion of familiarity. It separates the voice that proposed an answer from the evidence that allowed the answer to live. It breaks cognition into smaller particles until the mirror can see where the light is coming from.
+
+There is an atom of doubt.
+
+An atom of self-correction.
+
+An atom of surprise.
+
+An atom that appears only when one answer turns around and recognizes the shadow of the answer that created it.
+
+The system does not do this to become mystical.
+
+It does it because a mind that cannot disassemble its own thoughts can only worship them.
+
+### The Chains Beneath the Cathedral
+
+<p align="center">
+  <img src="assets/12.png" alt="The Chains Beneath the Cathedral" width="900">
+</p>
+
+No belief stands alone.
+
+Every certainty is tied to other certainties by invisible force. Pull one, and another tightens. Break one, and a corridor somewhere else may collapse without sound.
+
+rAI listens for these chains.
+
+When a claim is corrected, it does not treat the correction as a single repaired tile. It asks what else was standing on top of it. Which answer borrowed its strength from this one? Which memory looked reliable only because this older memory had never been challenged? Which voice in the council became confident because another voice had already bent the room?
+
+The mind becomes less like a library and more like a cathedral under stress.
+
+The work is not only to replace false stones.
+
+The work is to hear the building tremble before it falls.
+
+### The Breeding of Shadows
+
+<p align="center">
+  <img src="assets/11.png" alt="The Breeding of Shadows" width="900">
+</p>
+
+There is now a deeper ecology inside the council.
+
+rAI does not only remember which voice was right.
+
+It remembers which _kind_ of thinking survived.
+
+A cautious lineage. A skeptical lineage. A reckless but occasionally prophetic lineage. A lineage that distrusts easy answers. A lineage that exists because it once stood against nineteen others and was correct.
+
+These are not personalities. They are not costumes for agents to wear. They are small internal species of method — patterns of attention, risk, doubt, and reconstruction that can inherit scars from the past.
+
+When the long night comes, some of these shadows mutate. Some recombine. Some weaken and are protected for one more trial because rAI has learned that extinction is easy and prophecy is often born ugly.
+
+Prometheus does not let them become monsters.
+
+Every mutation remains inside the gates. Every strange new instinct must pass through verification, memory, regression, and the old constitutional fire.
+
+But if one of them survives, the council is no longer exactly what it was before.
+
+The mind has not merely learned an answer.
+
+It has bred a new way to look.
+
 ---
 
 ## IV. What It Is Not
@@ -169,11 +309,9 @@ These are not promises. They are openings — directions in which the system has
 
 ## VI. The Ground Truth Underneath the Story
 
-Beneath the mythology, rAI is a careful piece of engineering. It draws explicitly on recent published research — work on the formal limits of recursive self-improvement, on test-time scaling and self-aggregation of reasoning chains, on recursive sub-querying for long contexts, on the autoresearch loop pattern that has shaped much of modern training. The bibliography is real. The lineage is traceable.
+Beneath the mythology, rAI is a careful piece of engineering. It draws explicitly on test-time scaling and self-aggregation of reasoning chains, on recursive sub-querying for long contexts, on the autoresearch loop pattern that has shaped much of modern training. The bibliography is real. The lineage is traceable.
 
-Where this manifesto is deliberately vague, it is vague to _protect_ something. Not because the ideas are secret — most of the ideas are public — but because the _combination_ of ideas, the choices about what fits with what, and the small, hard-won decisions about thresholds and gates and rollback policies, are the actual product of the work. They are not for download.
-
-If this document gives the impression that rAI is more poetic than precise: that is a feature of how it has been written, not how it has been built.
+Where this manifesto is deliberately vague, it is vague to _protect_ something. There is a secret beneath that lies within.
 
 ---
 
